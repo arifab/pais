@@ -1,4 +1,4 @@
 pais
 ====
 
-Sistem Informasi Akademik PABTI UM Dengan Visual Foxpro
+Sistem Informasi Akademik Dengan Visual Foxpro
